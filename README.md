@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Visits Badge](https://badges.pufler.dev/visits/danilsmirnov/danilsmirnov)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/danilsmirnov)](https://badges.pufler.dev)
 <!--
 **danilsmirnov/danilsmirnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
